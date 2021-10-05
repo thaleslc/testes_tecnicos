@@ -3,6 +3,7 @@ Todos os notebooks devem ser reproduzidos utilizando o ambiente do arquivo "ambi
 Caso não seja possível utiliza-lo, abaixo está a transcrição dos comandos inseridos no Anaconda prompt para criar esse ambiente no Windows 10 64-bit:
 
 conda create -n ambiente python=3.8.10 ipython 
+
 conda activate ambiente
 conda install -c conda-forge jupyterlab=3.0.14
 conda config --env --add channels conda-forge
