@@ -1,4 +1,8 @@
 # testes_tecnicos
+
+################## Estas questões são referentes apenas ao módulo "dados" da prova ##################
+
+
 Todos os notebooks devem ser reproduzidos utilizando o ambiente do arquivo "ambiente.yml".
 Caso não seja possível utiliza-lo, abaixo está a transcrição dos comandos inseridos no Anaconda prompt para criar esse ambiente no Windows 10 64-bit:
 
