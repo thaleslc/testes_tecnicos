@@ -1,0 +1,10 @@
+{
+    "subsistema": "imperatriz",
+    "data_partida": "2000-01-01:00:00:00",
+    "valores": [
+        {
+            "demanda": 0.0,
+            "data": "2000-01-03:00:00:00"
+        }
+    ]
+}
